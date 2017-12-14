@@ -30,7 +30,8 @@ This is the instuctions to upload a Library into the Arduino IDE.
 ## Deployment
 1) Download the files in this repository. 
 2) Open `RGBLED_WS2812matrix.ino` in the Arduino IDE
-3) Upload and Enjoy :)
+3) Update `*Str` to the text that you want the display in the matrix 
+4) Upload and Enjoy :)
 
 ## Authors
 * **Ryan Seah ** - *Initial work* - [albusSimba]( https://github.com/albusSimba)
