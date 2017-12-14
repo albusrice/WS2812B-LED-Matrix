@@ -27,11 +27,11 @@
 
 
 //---------------PARAMETERS FOR LED BOARD-------------------------------------------
-#define PIN 2
-#define LED_COUNT 35
-#define row 5
+#define PIN 2         // Din Pin
+#define LED_COUNT 35  // Total Number of LEDs
+#define row 5         // Matrix Row and column. If updated update in Char_Definitions.h too.
 #define col 7
-#define WAIT 300
+#define WAIT 300      // duration taken to left shift
 
 char *Str = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";// Type Text To Display
 
