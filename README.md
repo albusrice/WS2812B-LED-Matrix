@@ -8,7 +8,7 @@ This is an example for a 5x7 LED Matrix Capable of displaying text with the use 
 ### Hooking Up the ciruit
 Hook up the circuit as shown in the circuit diagram. with Din connected to PIN 2.
 
-![Alt text](CircuitDiagram.jpg | width=100)
+![Alt text](CircuitDiagram.jpg?width=100)
 
 ### Prerequisites
 The following is the software and libaries required to  run the example code:
