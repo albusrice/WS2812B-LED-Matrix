@@ -7,6 +7,7 @@ This is an example for a 5x7 LED Matrix Capable of displaying text with the use 
 2) 35 WS2812B LED Strips (cut into 5 strips)
 ### Hooking Up the ciruit
 Hook up the circuit as shown in the circuit diagram. with Din connected to PIN 2.
+
 ![Alt text](Circuit Diagram.jpg?raw=true)
 
 ### Prerequisites
